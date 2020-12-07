@@ -21,4 +21,5 @@ virtualenv==16.7.2
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 Werkzeug==1.0.1
-wrapt==1.11.2
+wrapt==1.11.
+gunicorn==20.0.4
